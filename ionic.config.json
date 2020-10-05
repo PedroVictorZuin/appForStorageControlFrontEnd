@@ -1,0 +1,7 @@
+{
+  "name": "AppForStorage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
